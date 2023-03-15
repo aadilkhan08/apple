@@ -7,6 +7,42 @@ html,body{
     height: 100%;
     width: 100%;
 }
+@font-face {
+    font-family: SF PRO DISPLAY;
+    src: url(./SFPRODISPLAYBLACKITALIC.OTF);
+}
+@font-face {
+    font-family: SF PRO DISPLAY;
+    src: url(./SFPRODISPLAYBOLD.OTF);
+}
+@font-face {
+    font-family: SF PRO DISPLAY;
+    src: url(./SFPRODISPLAYHEAVYITALIC.OTF);
+}
+@font-face {
+    font-family: SF PRO DISPLAY;
+    src: url(./SFPRODISPLAYLIGHTITALIC.OTF);
+}
+@font-face {
+    font-family: SF PRO DISPLAY;
+    src: url(./SFPRODISPLAYMEDIUM.OTF);
+}
+@font-face {
+    font-family: SF PRO DISPLAY;
+    src: url(./SFPRODISPLAYREGULAR.OTF);
+}
+@font-face {
+    font-family: SF PRO DISPLAY;
+    src: url(./SFPRODISPLAYSEMIBOLDITALIC.OTF);
+}
+@font-face {
+    font-family: SF PRO DISPLAY;
+    src: url(./SFPRODISPLAYTHINITALIC.OTF);
+}
+@font-face {
+    font-family: SF PRO DISPLAY;
+    src: url(./SFPRODISPLAYULTRALIGHTITALIC.OTF);
+}
 body::-webkit-scrollbar{
     display: none;
 }
